@@ -18,7 +18,8 @@
 ```java
 if (condition) {
     // Code to execute if the condition is true
-} else {
+}
+else {
     // Code to execute if the condition is false
 }
 ```
@@ -34,9 +35,11 @@ if (condition) {
 ```java
 if (condition1) {
     // Code to execute if condition1 is true
-} else if (condition2) {
+}
+else if (condition2) {
     // Code to execute if condition2 is true
-} else {
+}
+else {
     // Code to execute if none of the conditions are true
 }
 ```
@@ -58,7 +61,8 @@ int number = -5;
 
 if (number > 0) {
     System.out.println("The number is positive.");
-} else {
+}
+else {
     System.out.println("The number is negative or zero.");
 }
 ```
